@@ -18,7 +18,7 @@ export default {
         headers: { "Content-Type": "application/json" },
       });
     }
-Add commentMore actions
+    
     return new Response("Hello World!");
   },
 };
